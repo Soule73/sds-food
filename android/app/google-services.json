@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267979974031",
+    "project_id": "sds-food-d4c3b",
+    "storage_bucket": "sds-food-d4c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267979974031:android:8e02ce759c12aa0742d7fa",
+        "android_client_info": {
+          "package_name": "com.sds.sdsfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnPzwylp_s4NGsr8J8GSN9GzUPm85vjYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
